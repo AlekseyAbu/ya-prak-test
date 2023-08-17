@@ -2,7 +2,7 @@
   <div class="selfie">
     <div v-for="(item, index) in self" :key="index + item.id" class="selfie__block">
       <span class="selfie__block__title">{{item.desc}}</span>
-      <img :src="'/static/' + item.url" class="selfie__block__img" :alt="item.desc">
+      <img :src="'/ya-prak-test/static/' + item.url" class="selfie__block__img" :alt="item.desc">
     </div>
   </div>
 </template>

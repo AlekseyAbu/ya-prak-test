@@ -12,7 +12,7 @@
     </div>
 
     <div class="main__github">
-      <a class="main__github__link" href="https://github.com/AlekseyAbu/testing">Ссылка на проект</a>
+      <a class="main__github__link" href="https://github.com/AlekseyAbu/ya-prak-test" target="_blank">Ссылка на проект</a>
     </div>
 
     <div class="main__screencast">
